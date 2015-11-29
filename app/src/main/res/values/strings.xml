@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Gears</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="gearing">Gearing</string>
+
+    <string name="rpm_pref_key">rpm</string>
+    <string name="tire_pref_key">tire</string>
+    <string name="first_gear_text">1st</string>
+    <string name="second_gear_text">2nd</string>
+    <string name="third_gear_text">3rd</string>
+    <string name="fifth_gear_text">5th</string>
+    <string name="fourth_gear_text">4th</string>
+    <string name="transmission">Transmission</string>
+    <string name="nav_tire">Tire</string>
+    <string name="nav_gears">Gears</string>
+    <string name="nav_transfer_case">Transfer Case</string>
+    <string name="nav_settings">Settings</string>
+    <string name="gear_preferences">gear_preferences</string>
+
+</resources>
